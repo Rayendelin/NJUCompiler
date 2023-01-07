@@ -1,0 +1,7 @@
+struct Data {
+  int di, dj;
+};
+
+int is_equal(struct Data ed1, struct Data ed2) {
+  return ed1.dj - ed1.dj;
+}
